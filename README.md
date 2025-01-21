@@ -6,7 +6,7 @@ I'm a software creator with a passion for making apps that solve everyday proble
 
 🚀 My Projects:
 
-* **YouTube Downloader:** I built this desktop app with the help of AI to make downloading YouTube and also Facebook videos super easy. Check it out [here](https://github.com/RudraMondal815/youtube-downloader)!
+* **YouTube Downloader:** I built this desktop app with the help of AI to make downloading YouTube and also Facebook videos super easy. Check it out [here](https://github.com/rudra-mondal/youtube-downloader.git)!
 * *...(Just wait, others are loading 😊!)*
 
 🛠️ What I Use:

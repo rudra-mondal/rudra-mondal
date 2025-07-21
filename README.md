@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hey there! I'm Rudra!</h1>
-<h3 align="center">Passionate about AI made projects</h3>
+<h3 align="center">Passionate about AI made projects | Vive Coder</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rudra-mondal" alt="rudra-mondal" /> </p>
 

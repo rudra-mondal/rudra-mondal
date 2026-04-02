@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hey there! I'm Rudra!</h1>
 <h3 align="center">Passionate about AI made projects | Vive Coder</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rudra-mondal" alt="rudra-mondal" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rudra-mondal" alt="Profile views" /> </p>
 
 ## About Me
 I'm a software creator with a passion for making apps that solve everyday problems.  I'm not a coding whiz (yet!), but I'm super excited about how AI can help anyone build awesome software.  I'm all about finding smart solutions and making tech that's actually useful for people.
@@ -34,7 +34,7 @@ I love meeting new people and talking about tech. I'm a big believer in open-sou
 
 <h4 align="left">📫 Find Me Here:</h4>
 <p align="left">
-<a href="https://www.linkedin.com/in/rudra-mondal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rudra-mondal" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/rudra-mondal/" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" height="30" width="40" /></a>
 </p>
 
 ---

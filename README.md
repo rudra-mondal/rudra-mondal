@@ -57,7 +57,7 @@ I'm a software creator with a passion for making apps that solve everyday proble
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rudra-mondal&theme=radical" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=rudra-mondal&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---

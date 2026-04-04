@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Software+Creator;Passionate+about+AI+made+projects;Vive+Coder;Civil+Engineering+Student" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Software+Creator;Passionate+about+AI+made+projects;Vive+Coder;Civil+Engineering+Student" alt="Typing SVG" />
   </a>
 </p>
 
@@ -57,7 +57,7 @@ I'm a software creator with a passion for making apps that solve everyday proble
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rudra-mondal&theme=radical" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=rudra-mondal&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---

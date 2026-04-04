@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=👋%20Hey%20there!%20I'm%20Rudra!&fontSize=50&fontAlignY=38&desc=Software%20Creator%20%7C%20AI%20Enthusiast%20%7C%20Vive%20Coder&descAlignY=55&descSize=20&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=👋%20Hey%20there!%20I'm%20Rudra!&fontSize=50&fontAlignY=38&desc=Software%20Creator%20%7C%20AI%20Enthusiast%20%7C%20Vive%20Coder&descAlignY=55&descSize=20&animation=twinkling" alt="👋 Hey there! I'm Rudra! Software Creator | AI Enthusiast | Vive Coder" />
 </h1>
 
 <p align="center">

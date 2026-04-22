@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Software+Creator;Passionate+about+AI+made+projects;Vive+Coder;Civil+Engineering+Student" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Software+Creator;Passionate+about+AI+made+projects;Vive+Coder;Civil+Engineering+Student" alt="Software Creator; Passionate about AI made projects; Vive Coder; Civil Engineering Student" />
   </a>
 </p>
 

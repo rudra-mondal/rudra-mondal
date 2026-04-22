@@ -39,11 +39,18 @@ I'm a software creator with a passion for making apps that solve everyday proble
 ## 🚀 My Projects
 
 - **YouTube Downloader:** I built this desktop app with the help of AI to make downloading YouTube and also Facebook videos super easy. Check it out below!
-- _...(Just wait, others are loading 😊!)_
+- **Treely:** A beautiful and powerful command-line directory tree generator with advanced filtering and code-viewing capabilities.
+- **Aperture EPUB Reader:** Aperture allows you to manage a local library of EPUB files, read them in a beautifully styled, distraction-free view, and listen to your books with high-quality, natural-sounding voices.
 
 <p align="center">
   <a href="https://github.com/rudra-mondal/youtube-downloader">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=rudra-mondal&repo=youtube-downloader&theme=radical&show_icons=true" alt="YouTube Downloader Readme Card" />
+  </a>
+  <a href="https://github.com/rudra-mondal/treely">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rudra-mondal&repo=treely&theme=radical&show_icons=true" alt="Treely Readme Card" />
+  </a>
+  <a href="https://github.com/rudra-mondal/aperture-epub-reader">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rudra-mondal&repo=aperture-epub-reader&theme=radical&show_icons=true" alt="Aperture EPUB Reader Readme Card" />
   </a>
 </p>
 

@@ -3,9 +3,7 @@
 </h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Software+Creator;Passionate+about+AI+made+projects;Vive+Coder;Civil+Engineering+Student" alt="Software Creator; Passionate about AI made projects; Vive Coder; Civil Engineering Student" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=600&lines=Software+Creator;Passionate+about+AI+made+projects;Vive+Coder;Civil+Engineering+Student" alt="Software Creator; Passionate about AI made projects; Vive Coder; Civil Engineering Student" />
 </p>
 
 <p align="center">
@@ -30,7 +28,7 @@ I'm a software creator with a passion for making apps that solve everyday proble
 **Online Tutorials & Docs:** I'm a big fan of learning by doing, so I'm always checking out new resources.
 
 <p align="center">
-  <img src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
+  <img src="https://img.shields.io/badge/chatGPT-0A6650?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
   <img src="https://img.shields.io/badge/github%20copilot-121011?style=for-the-badge&logo=githubcopilot&logoColor=white" alt="GitHub Copilot" />
 </p>
 

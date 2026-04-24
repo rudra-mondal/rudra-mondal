@@ -41,14 +41,14 @@ I'm a software creator with a passion for making apps that solve everyday proble
 - **[Aperture EPUB Reader](https://github.com/rudra-mondal/aperture-epub-reader):** Aperture allows you to manage a local library of EPUB files, read them in a beautifully styled, distraction-free view, and listen to your books with high-quality, natural-sounding voices.
 
 <p align="center">
-  <a href="https://github.com/rudra-mondal/youtube-downloader">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rudra-mondal&repo=youtube-downloader&theme=radical&show_icons=true" alt="YouTube Downloader repository" />
+  <a href="https://github.com/rudra-mondal/youtube-downloader" target="_blank" rel="noopener noreferrer">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rudra-mondal&repo=youtube-downloader&theme=radical&show_icons=true" alt="YouTube Downloader Readme Card" />
   </a>
-  <a href="https://github.com/rudra-mondal/treely">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rudra-mondal&repo=treely&theme=radical&show_icons=true" alt="Treely repository" />
+  <a href="https://github.com/rudra-mondal/treely" target="_blank" rel="noopener noreferrer">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rudra-mondal&repo=treely&theme=radical&show_icons=true" alt="Treely Readme Card" />
   </a>
-  <a href="https://github.com/rudra-mondal/aperture-epub-reader">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rudra-mondal&repo=aperture-epub-reader&theme=radical&show_icons=true" alt="Aperture EPUB Reader repository" />
+  <a href="https://github.com/rudra-mondal/aperture-epub-reader" target="_blank" rel="noopener noreferrer">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rudra-mondal&repo=aperture-epub-reader&theme=radical&show_icons=true" alt="Aperture EPUB Reader Readme Card" />
   </a>
 </p>
 

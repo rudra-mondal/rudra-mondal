@@ -41,13 +41,13 @@ I'm a software creator with a passion for making apps that solve everyday proble
 - **Aperture EPUB Reader:** Aperture allows you to manage a local library of EPUB files, read them in a beautifully styled, distraction-free view, and listen to your books with high-quality, natural-sounding voices.
 
 <p align="center">
-  <a href="https://github.com/rudra-mondal/youtube-downloader">
+  <a href="https://github.com/rudra-mondal/youtube-downloader" target="_blank" rel="noopener noreferrer">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=rudra-mondal&repo=youtube-downloader&theme=radical&show_icons=true" alt="YouTube Downloader Readme Card" />
   </a>
-  <a href="https://github.com/rudra-mondal/treely">
+  <a href="https://github.com/rudra-mondal/treely" target="_blank" rel="noopener noreferrer">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=rudra-mondal&repo=treely&theme=radical&show_icons=true" alt="Treely Readme Card" />
   </a>
-  <a href="https://github.com/rudra-mondal/aperture-epub-reader">
+  <a href="https://github.com/rudra-mondal/aperture-epub-reader" target="_blank" rel="noopener noreferrer">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=rudra-mondal&repo=aperture-epub-reader&theme=radical&show_icons=true" alt="Aperture EPUB Reader Readme Card" />
   </a>
 </p>

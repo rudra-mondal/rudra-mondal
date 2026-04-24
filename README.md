@@ -36,19 +36,19 @@ I'm a software creator with a passion for making apps that solve everyday proble
 
 ## 🚀 My Projects
 
-- **YouTube Downloader:** I built this desktop app with the help of AI to make downloading YouTube and also Facebook videos super easy. Check it out below!
-- **Treely:** A beautiful and powerful command-line directory tree generator with advanced filtering and code-viewing capabilities.
-- **Aperture EPUB Reader:** Aperture allows you to manage a local library of EPUB files, read them in a beautifully styled, distraction-free view, and listen to your books with high-quality, natural-sounding voices.
+- **[YouTube Downloader](https://github.com/rudra-mondal/youtube-downloader):** I built this desktop app with the help of AI to make downloading YouTube and also Facebook videos super easy.
+- **[Treely](https://github.com/rudra-mondal/treely):** A beautiful and powerful command-line directory tree generator with advanced filtering and code-viewing capabilities.
+- **[Aperture EPUB Reader](https://github.com/rudra-mondal/aperture-epub-reader):** Aperture allows you to manage a local library of EPUB files, read them in a beautifully styled, distraction-free view, and listen to your books with high-quality, natural-sounding voices.
 
 <p align="center">
   <a href="https://github.com/rudra-mondal/youtube-downloader">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rudra-mondal&repo=youtube-downloader&theme=radical&show_icons=true" alt="YouTube Downloader Readme Card" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rudra-mondal&repo=youtube-downloader&theme=radical&show_icons=true" alt="YouTube Downloader repository" />
   </a>
   <a href="https://github.com/rudra-mondal/treely">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rudra-mondal&repo=treely&theme=radical&show_icons=true" alt="Treely Readme Card" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rudra-mondal&repo=treely&theme=radical&show_icons=true" alt="Treely repository" />
   </a>
   <a href="https://github.com/rudra-mondal/aperture-epub-reader">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rudra-mondal&repo=aperture-epub-reader&theme=radical&show_icons=true" alt="Aperture EPUB Reader Readme Card" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rudra-mondal&repo=aperture-epub-reader&theme=radical&show_icons=true" alt="Aperture EPUB Reader repository" />
   </a>
 </p>
 
@@ -81,7 +81,7 @@ I love meeting new people and talking about tech. I'm a big believer in open-sou
 
 <p align="center">
   <a href="https://www.linkedin.com/in/rudra-mondal/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile (opens in a new tab)" />
   </a>
 </p>
 
